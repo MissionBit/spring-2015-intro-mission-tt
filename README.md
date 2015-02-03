@@ -1,6 +1,6 @@
-# fall-2014-intro-mission-tt
+# spring-2015-intro-mission-tt
 
-Fall 2014 Intro Web class at Mission High School on Tue/Thu
+Spring 2015 Intro Web class at Mission High School on Tue/Thu
 
-Check out the [wiki](https://github.com/MissionBit/fall-2014-intro-mission-tt/wiki)
+Check out the [wiki](https://github.com/MissionBit/spring-2015-intro-mission-tt/wiki)
 for information about this class!
